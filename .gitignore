@@ -1,0 +1,21 @@
+# 認証情報・秘密情報 (絶対に Push しない)
+.env
+claude_mcp_config.json
+
+# Python キャッシュ
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# 仮想環境
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
